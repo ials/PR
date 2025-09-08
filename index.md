@@ -1,58 +1,21 @@
 ---
-title: 'Dept 999: Generic Description'
-subtitle: 'UC Berkeley, Spring 2024'
+title: "Dept 999: Generic Description"
+subtitle: "UC Berkeley, Spring 2026"
 ---
 
-<!--div class="staffer">
-  <img class="staffer-image" src="{{ staff_photo }}" height=50 width=50 alt="{{ staff_name }}">
-  <div>
-    <h3 class="staffer-name">
-      <a href="{{ staff_website }}" target="_blank">{{ staff_name }}</a>
-      <p class="staffer-pronouns"><b>{{ staff_pronouns }}</b></p>
-    </h3>
-    <p><a href="mailto:{{ staff_email }}">{{ staff_email }}</a></p>
-    <p><b>Office Hours:</b> {{ staff_oh }}</p>
-  </div>
-</div-->
+Welcome to Department 999, a comprehensive introduction to the fundamental concepts and methodologies that form the backbone of modern academic inquiry. This course is designed to provide students with both theoretical understanding and practical skills necessary for success in their chosen field of study.
 
-::::{grid} 1 2 2 2
+## Course Overview
 
-:::{card}
-:header: **Instructor Name**
+The course meets twice weekly for lectures and once weekly for discussion sections. Additionally, there are regular laboratory sessions where you'll apply theoretical concepts to real-world problems. Guest speakers from industry and academia will provide insights into current applications and career opportunities. 
 
-![Instructor Name](images/firefly-instructor.jpg)
-
-+++
-
-* **Office Hours**: Tue 11-12pm (Evans 4019)
-* **Pronouns**: She/Her
-* [instructor@berkeley.edu](mailto:instructor@berkeley.edu)
-:::
-
-:::{card}
-:header: **GSI Name**
-
-![GSI Name](images/firefly-gsi.jpg)
-
-+++
-
-* **Office Hours**: MW 2-3pm (Evans 3137)
-* **Pronouns**: She/Her
-* [gsi-name@berkeley.edu](mailto:gsi-name@berkeley.edu)
-
-:::
-
-::::
-
-:::{attention} Welcome to [Week 2](#week2) of Dept 999!
+:::{attention} There is a quiz in [Week 2](#week2)!
 :class: dropdown
 :icon: false
 👋
 :::
 
-# Schedule
-
-You can have freestyle HTML with colors and styles. <span style="color: blue;">For example, this text is blue.</span>
+## Schedule
 
 The table below is rendered by the `schedule` plugin, contributed by [rowanc1](https://github.com/rowanc1). It is declared in `myst.yml` and contained within `schedule.mjs`. It reads in the data in `schedule.yml` and converts it into a table.
 
