@@ -10,8 +10,8 @@ project:
     content: CC-BY-4.0
   github: https://github.com/berkeley-cdss/course-site-myst
   # bibliography: []
-  jupyter:
-    lite: true
+  #jupyter:
+  #  lite: true
   #thebe:
   #  lite: true
     #local:
@@ -21,26 +21,29 @@ project:
     #  url: http://localhost:8888
     #  token: test-secret
   plugins:
-    - schedule.mjs
+  - schedule.mjs
+  - staff.mjs
   toc:
-    - file: index
-    - file: syllabus
-    - file: calendar
-    - file: data
-    - file: unit1
-    - file: unit2
+  - file: index.md
+  - file: syllabus.md
+  - file: calendar.md
+  - file: staff.md
+  - file: data.md
+  - file: unit1.md
+  - file: unit2.ipynb
 site:
   template: book-theme
   title: "Dept 999"
   options:
     logo: "stat_bear.png"
+    style: custom.css
   nav: []
   actions:
-    - title: Ed
-      url: https://edstem.org
-    - title: DataHub
-      url: https://datahub.berkeley.edu
-    #- title: Gradescope
-    #  url: https://www.gradescope.com/courses/564792
+  - title: Ed
+    url: https://edstem.org
+  - title: DataHub
+    url: https://datahub.berkeley.edu
+  #- title: Gradescope
+  #  url: https://www.gradescope.com/courses/564792
   domains:
-    - berkeley-cdss.github.io
+  - berkeley-cdss.github.io
