@@ -7,9 +7,9 @@ Welcome to *Percepción Remota*, a comprehensive introduction to the fundamental
 
 ## Course Overview
 
-The course meets on Wednesdays for lectures and  discussion. Additionally, there are  laboratory sessions where students apply theoretical concepts to real-world problems. Guest speakers from industry and academia w
+The course meets on Wednesdays for lectures and  discussion. Additionally, there are  laboratory sessions where students apply theoretical concepts to real-world problems.
 
-:::{attention} There is a quiz in [Week 2](#week2)!
+:::{attention} There is a quiz every week!
 :class: dropdown
 :icon: false
 👋
