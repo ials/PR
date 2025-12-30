@@ -2,7 +2,7 @@
 version: 1
 project:
   title: "Percepcion Remota"
-  description: "Class Website Based on *Myst*"
+  description: "Class Website Based On Myst"
   keywords: []
   #authors: ["Instructor Name"]
   license:
@@ -29,11 +29,11 @@ project:
   - file: calendar.md
   - file: staff.md
   - file: data.md
-  - file: unit1.ipynb
+  - file: unit1.md
   - file: unit2.ipynb
 site:
   template: book-theme
-  title: "Percepción Remota"
+  title: "Dept 999"
   options:
     logo: "stat_bear.png"
     style: custom.css
