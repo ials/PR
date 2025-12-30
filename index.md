@@ -1,13 +1,13 @@
 ---
-title: "Dept 999: Generic Description"
-subtitle: "UC Berkeley, Spring 2026"
+title: "Percepción Remota: Descripción General"
+subtitle: "UNAL, 2026 - 01"
 ---
 
-Welcome to Department 999, a comprehensive introduction to the fundamental concepts and methodologies that form the backbone of modern academic inquiry. This course is designed to provide students with both theoretical understanding and practical skills necessary for success in their chosen field of study.
+Welcome to *Percepción Remota*, a comprehensive introduction to the fundamental concepts and methodologies that form the backbone of modern Earth Observation. This course is designed to provide students with both theoretical understanding and practical skills necessary for success in *remotely sensed image processing and analysis*.
 
 ## Course Overview
 
-The course meets twice weekly for lectures and once weekly for discussion sections. Additionally, there are regular laboratory sessions where you'll apply theoretical concepts to real-world problems. Guest speakers from industry and academia will provide insights into current applications and career opportunities. 
+The course meets on Wednesdays for lectures and  discussion. Additionally, there are  laboratory sessions where students apply theoretical concepts to real-world problems. Guest speakers from industry and academia w
 
 :::{attention} There is a quiz in [Week 2](#week2)!
 :class: dropdown
