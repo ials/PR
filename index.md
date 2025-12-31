@@ -1,5 +1,6 @@
 ---
-title: "Percepción Remota: Descripción General"
+title: "Percepción Remota: 
+        Descripción General"
 subtitle: "UNAL, 2026 - 01"
 ---
 
