@@ -24,5 +24,6 @@
     - when: Wednesday, 11am - 12m
       where: Office 333
   about-me: |
-    I am an instructor, and [here](https://cienciasagrarias.bogota.unal.edu.co/facultad/profesores/ivan-alberto-lizarazo-salcedo) is a brief bio.
+    I am an instructor, and here is a brief bio.
+  website: https://cienciasagrarias.bogota.unal.edu.co/facultad/profesores/ivan-alberto-lizarazo-salcedo
 
