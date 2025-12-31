@@ -16,25 +16,13 @@
 #  website: https://
 #  pronouns: They/Them
 
-- name: Instructor Name
+- name: Ivan Lizarazo 
   role: Instructor
-  email: example@berkeley.edu
+  email: ializarazos@unal.edu.co
   photo: images/firefly-instructor.jpg
   office-hours:
-    - when: Wednesday, 1pm - 2pm
-      where: Online
-      link: https://berkeley.zoom.us
+    - when: Wednesday, 11am - 12m
+      where: Office 333
   about-me: |
-    I am an instructor, and here is a brief bio.
+    I am an instructor, and [here](https://cienciasagrarias.bogota.unal.edu.co/facultad/profesores/ivan-alberto-lizarazo-salcedo) is a brief bio.
 
-- name: GSI Name
-  role: Teaching Assistant
-  email: example@berkeley.edu
-  photo: images/firefly-gsi.jpg
-  office-hours:
-    - when: Monday, 5pm - 6pm
-      where: 367 Evans Hall
-  about-me: |
-    I am a GSI, and here is a brief bio.
-  website: https://example.org/about-me
-  pronouns: She/Her
