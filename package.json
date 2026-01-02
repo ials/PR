@@ -2,6 +2,7 @@
   "name": "schedule",
   "private": true,
   "dependencies": {
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "zeromq": "^6.0.4"
   }
 }
